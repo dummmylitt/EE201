@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LAB 4.kicad_pro",
+    "filename": "LAB 6.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -412,7 +412,7 @@
   },
   "sheets": [
     [
-      "30e34700-3afb-443d-9bc6-c51e729e2af7",
+      "0dfd93b0-eeed-427c-9ab3-b4c2480172bf",
       ""
     ]
   ],
