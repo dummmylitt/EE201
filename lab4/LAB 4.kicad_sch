@@ -425,7 +425,7 @@
     (property "Reference" "C1" (id 0) (at 147.32 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (id 1) (at 147.32 80.0099 0)
+    (property "Value" "4.7 microF" (id 1) (at 147.32 80.0099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 144.4752 82.55 0)
@@ -463,7 +463,7 @@
 
   (symbol_instances
     (path "/e9be0c2e-757e-4f0d-b4ca-03db2efd0331"
-      (reference "C1") (unit 1) (value "C") (footprint "")
+      (reference "C1") (unit 1) (value "4.7 microF") (footprint "")
     )
     (path "/d0aa26bd-25c6-4084-8fea-c8f6ead61260"
       (reference "D1") (unit 1) (value "LED") (footprint "")
